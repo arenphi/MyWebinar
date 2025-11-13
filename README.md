@@ -18,8 +18,11 @@
 
 ### 4. UI (User Interface) Project
 ![image](UI/1.png)
-![image](UI/2.png)
-!0[image](UI/3.png)
-
+![image](UI/4.png)
+![image](UI/5.png)
+![image](UI/6.png)
+![image](UI/9.png)
+![image](UI/8.png)
 
 ### 5. UX (User Experience) VIDEO PROTOTYPE Project
+![image](ux.gif)
