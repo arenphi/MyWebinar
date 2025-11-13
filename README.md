@@ -19,10 +19,15 @@
 
 ### 3. Mockup Project
 <p align="center">
-<img src="Mockup.png" width="70%">
+<img src="Mockup.png" width="30%">
 </p>
 
-### 4. UI (User Interface) Project
+### 4. Wireframe 
+<p align="center">
+<img src="Wireframe.png" width="30%">
+</p>
+
+### 5. UI (User Interface) Project
 <p align="center">
   <img src="UI/1.png" width="30%">
   <img src="UI/4.png" width="30%">
@@ -34,7 +39,13 @@
   <img src="UI/8.png" width="30%">
 </p>
 
-### 5. UX (User Experience) VIDEO PROTOTYPE Project
+### 6. UX (User Experience) VIDEO PROTOTYPE Project
 <p align="center">
 <img src="ux.gif" width="30%">
+</p>
+
+### 6. Link Project
+<p>
+  🔗 <a href="https://app.clickup.com/123456789" target="_blank">Buka ClickUp Project</a><br>
+  🎨 <a href="https://www.figma.com/file/abcdefghij/MyWebinar-Design" target="_blank">Lihat Desain Figma</a>
 </p>
