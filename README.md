@@ -14,12 +14,12 @@
 
 ### 2. StoryBoard Project
 <p align="center">
-<img src="Storyboard.png" width="30%">
+<img src="Storyboard.png" width="70%">
 </p>
 
 ### 3. Mockup Project
 <p align="center">
-<img src="mockup.png" width="30%">
+<img src="Mockup.png" width="70%">
 </p>
 
 ### 4. UI (User Interface) Project
@@ -35,4 +35,6 @@
 </p>
 
 ### 5. UX (User Experience) VIDEO PROTOTYPE Project
+<p align="center">
 <img src="ux.gif" width="30%">
+</p>
