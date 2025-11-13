@@ -24,7 +24,7 @@
 
 ### 4. Wireframe 
 <p align="center">
-<img src="Wireframe.png" width="30%">
+<img src="Wireframe.png" width="70%">
 </p>
 
 ### 5. UI (User Interface) Project
@@ -44,14 +44,8 @@
 <img src="ux.gif" width="30%">
 </p>
 
-### 6. Link Project
-<p>
-  🔗 <a href="https://app.clickup.com/123456789" target="_blank">Buka ClickUp Project</a><br>
-  🎨 <a href="https://www.figma.com/file/abcdefghij/MyWebinar-Design" target="_blank">Lihat Desain Figma</a>
-</p>
+### 7. Timeline Project ClickUp
+- [Link ClickUp]([https://app.clickup.com/123456789](https://sharing.clickup.com/90181810261/l/h/6-901812352277-1/a8aa826a9dc67d3))
 
-
-### 6. Link Project
-
-- [Link ClickUp](https://app.clickup.com/123456789)  
-- [Link Figma](https://www.figma.com/file/abcdefghij/MyWebinar-Design)
+ ### 8. Timeline Project ClickUp
+- [Link Figma]([https://www.figma.com/file/abcdefghij/MyWebinar-Design](https://www.figma.com/design/iwjr289lMfDCBZmQjJ0kks/MyWebinar-UI-UX-Design?node-id=1-18&t=Lw9OMroXqJQALsfL-1))
