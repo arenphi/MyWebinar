@@ -49,3 +49,9 @@
   🔗 <a href="https://app.clickup.com/123456789" target="_blank">Buka ClickUp Project</a><br>
   🎨 <a href="https://www.figma.com/file/abcdefghij/MyWebinar-Design" target="_blank">Lihat Desain Figma</a>
 </p>
+
+
+### 6. Link Project
+
+- [Link ClickUp](https://app.clickup.com/123456789)  
+- [Link Figma](https://www.figma.com/file/abcdefghij/MyWebinar-Design)
