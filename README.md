@@ -6,9 +6,11 @@
 # 
 
 ### 1. Splash Screen
-![image](id.gif)
-![image](eng.gif)
-![image](jp.gif)
+<p align="center">
+  <img src="id.gif" width="30%">
+  <img src="eng.gif" width="30%">
+  <img src="jp.gif" width="30%">
+</p>
 
 ### 2. StoryBoard Project
 ![image](Storyboard.png)
