@@ -6,8 +6,12 @@
 # 
 
 ### 1. Splash Screen
+![image](id.gif)
+![image](eng.gif)
+![image](jp.gif)
 
 ### 2. StoryBoard Project
+![image](Storyboard.png)
 
 ### 3. Mockup Project
 
