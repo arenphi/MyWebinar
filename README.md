@@ -6,7 +6,7 @@
 # 
 
 ### 1. Splash Screen
-![image](id.gif=260x)
+![image](id.gif = 260x)
 ![image](eng.gif)
 ![image](jp.gif)
 
