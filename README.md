@@ -54,5 +54,5 @@
 - [Link ClickUp](https://sharing.clickup.com/90181810261/l/h/6-901812352277-1/a8aa826a9dc67d3)
 <br>
 
- ### 8. Timeline Project ClickUp
+ ### 8. Figma Wireframe
 - [Link Figma](https://www.figma.com/design/iwjr289lMfDCBZmQjJ0kks/MyWebinar-UI-UX-Design?node-id=1-18&t=Lw9OMroXqJQALsfL-1))
