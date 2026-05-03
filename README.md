@@ -10,8 +10,11 @@
 Proyek ini merupakan implementasi aplikasi **MyWebinar** pada Android Studio. Aplikasi ini berfungsi untuk manajemen pendaftaran webinar, akses sertifikat, dan kini telah dilengkapi dengan fitur **AI Chatbot** sebagai asisten cerdas bagi pengguna.
 
 ### Fitur Terbaru: AI Chatbot Asisten
+  <img src="UI/41.png" width="30%">
 *   **Integrasi AI**: Menggunakan API untuk menjawab pertanyaan seputar jadwal dan teknis webinar.
 *   **Smart Assistant**: Membantu pengguna melakukan pencarian topik webinar secara otomatis melalui perintah teks.
+
+- [Link Figma](https://www.figma.com/make/rfmdHkmT6GqeyeViMq5wMx/Design-mobile-AI-Chatbot?fullscreen=1&t=NRizYNtsDBTcvFli-1)
 
 ---
 
