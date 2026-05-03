@@ -47,11 +47,6 @@
   <img src="UI/a12.jpeg" width="30%">
   <img src="UI/a13.jpeg" width="30%">
 </p>
-<p align="center">
-  <img src="UI/6.png" width="30%">
-  <img src="UI/9.png" width="30%">
-  <img src="UI/8.png" width="30%">
-</p>
 <br>
 
 ### 6. UX (User Experience) VIDEO PROTOTYPE Project
