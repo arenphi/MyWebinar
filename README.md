@@ -3,7 +3,7 @@
 ### NIM : 312410278
 ### Kelas : I241D
 ### Mata Kuliah : Pemrograman Mobile Pertemuan 8 / UTS
-### Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.[cite: 5]
+### Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 # 
 
 ## 📝 Deskripsi Project (Update UTS)
@@ -21,7 +21,8 @@ Proyek ini merupakan implementasi aplikasi **MyWebinar** pada Android Studio[cit
   <img src="eng.gif" width="30%">
   <img src="jp.gif" width="30%">
 </p>
-<br>
+
+---
 
 ### 2. StoryBoard Project
 <p align="center">
@@ -29,11 +30,14 @@ Proyek ini merupakan implementasi aplikasi **MyWebinar** pada Android Studio[cit
 </p>
 <br>
 
+---
+
 ### 3. Mockup Project
 <p align="center">
 <img src="Mockup.png" width="30%">
 </p>
-<br>
+
+---
 
 ### 4. Wireframe 
 <p align="center">
@@ -63,16 +67,58 @@ Proyek ini merupakan implementasi aplikasi **MyWebinar** pada Android Studio[cit
 <p align="center">
 <img src="ux.gif" width="30%">
 </p>
-<br>
+
+---
 
 ### 7. Timeline Project ClickUp
+
+```text
+2025 | SEP | OKT | ... | 2026 | MAR | APR | MEI | JUN |
+--------------------------------------------------------------
+Setup & Design [====]
+Implementasi AS     [==]
+Integrasi AI (Inisiasi)        [==]
+UI/UX Arsitektur AI               [==]
+Coding Core & AI Chatbot              [===========]
+Finalisasi & Dokumentasi                          [==]
+Testing & Bug Fixing                                [==]
+```
+
 - [ClickUp](https://sharing.clickup.com/90181810261/g/h/2kzm2e2n-658/ecff08a3c6fdc3c)
 <br>
+
+### **Pembaruan Bagian 7: Timeline Project ClickUp**
+
+Berikut adalah detail jadwal pengerjaan proyek **MyWebinar** beserta progres integrasi fitur AI Chatbot terbaru:
+
+| Tugas (Task) | Due Date | Status |
+| :--- | :--- | :--- |
+| Download & Install Android Studio | 18 Sep 2025 | Selesai[cite: 5] |
+| Membuat Storyboard Aplikasi MyWebinar | 28 Sep 2025 | Selesai[cite: 5] |
+| Membuat Akun ClickUp | 19 Sep 2025 | Selesai[cite: 5] |
+| Membuat MockUp dari Storyboard | 17 Okt 2025 | Selesai[cite: 5] |
+| Membuat UI (User Interface) di Figma | 17 Okt 2025 | Selesai[cite: 5] |
+| Implementasi di Android Studio | 19 Okt 2025 | Selesai[cite: 5] |
+| **Inisiasi & Analisis AI** | 13 Mar 2026 | Selesai[cite: 5] |
+| **Perancangan UI/UX & Arsitektur** | 27 Mar 2026 | Selesai[cite: 5] |
+| **Pengembangan Fitur Core & AI** | 22 Mei 2026 | Sedang Berjalan[cite: 5] |
+| **Dokumentasi & Finalisasi** | 05 Jun 2026 | Mendatang[cite: 5] |
+| **Testing & Bug Fixing** | 19 Jun 2026 | Mendatang[cite: 5] |
+
+---
 
  ### 8. Figma Wireframe
 - [Link Figma](https://www.figma.com/design/iwjr289lMfDCBZmQjJ0kks/MyWebinar-UI-UX-Design?node-id=1-18&t=Lw9OMroXqJQALsfL-1))
 
 Tentu, Rizki. Berikut adalah draf **README.md** yang telah diperbarui sesuai dengan instruksi UTS Pemrograman Mobile 2[cite: 5]. Saya telah menyesuaikan informasi mata kuliah, menambahkan deskripsi fitur AI Chatbot terbaru, serta menyertakan tabel progres pengerjaan tanpa menghapus referensi gambar yang sudah ada.
+
+---
+
+### 9. Cara Instalasi (Technical Requirements)
+1.  Clone repository ini[cite: 5].
+2.  Buka project menggunakan **Android Studio**[cite: 5].
+3.  Pastikan API Key untuk AI Chatbot sudah terkonfigurasi di file `gradle.properties` atau `local.properties`.
+4.  Jalankan aplikasi menggunakan Emulator atau Real Device.
 
 ---
 
@@ -151,21 +197,3 @@ Pengembangan fitur AI Chatbot mengikuti jadwal *Gantt Chart* yang telah disusun 
 | Testing & Bug Fixing | 12 Jun 2026 | 09 Jul 2026 | Mendatang |
 | Dokumentasi & Finalisasi | 10 Jul 2026 | 31 Jul 2026 | Mendatang |
 
-*   **Link ClickUp**: [Klik di sini untuk melihat Progress SCRUM](https://sharing.clickup.com/90181810261/l/h/6-901812352277-1/a8aa826a9dc67d3)[cite: 5]
-
-<br>
-
-### 8. Figma Wireframe
-- [Link Figma Design](https://www.figma.com/design/iwjr289lMfDCBZmQjJ0kks/MyWebinar-UI-UX-Design?node-id=1-18&t=Lw9OMroXqJQALsfL-1)
-
----
-
-### 9. Cara Instalasi (Technical Requirements)
-1.  Clone repository ini[cite: 5].
-2.  Buka project menggunakan **Android Studio**[cite: 5].
-3.  Pastikan API Key untuk AI Chatbot sudah terkonfigurasi di file `gradle.properties` atau `local.properties`.
-4.  Jalankan aplikasi menggunakan Emulator atau Real Device.
-
----
-
-Pastikan kamu sudah memasukkan file gambar WhatsApp yang tadi kamu kirim ke folder repository kamu agar link `<img>` di atas bisa menampilkan gambar dengan benar. Ada lagi yang perlu saya bantu untuk UTS ini?
