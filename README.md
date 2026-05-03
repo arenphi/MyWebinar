@@ -56,7 +56,7 @@
 <br>
 
 ### 7. Timeline Project ClickUp
-- [Link ClickUp](https://sharing.clickup.com/90181810261/l/h/6-901812352277-1/a8aa826a9dc67d3)
+- [ClickUp](https://sharing.clickup.com/90181810261/l/h/6-901812352277-1/a8aa826a9dc67d3)
 <br>
 
  ### 8. Figma Wireframe
