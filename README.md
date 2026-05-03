@@ -114,7 +114,7 @@ Berikut adalah detail jadwal pengerjaan proyek **MyWebinar** beserta progres int
 ---
 
 ### 9. Cara Instalasi (Technical Requirements)
-1.  Clone repository ini[cite: 5].
-2.  Buka project menggunakan **Android Studio**[cite: 5].
+1.  Clone repository ini.
+2.  Buka project menggunakan **Android Studio**.
 3.  Pastikan API Key untuk AI Chatbot sudah terkonfigurasi di file `gradle.properties` atau `local.properties`.
 4.  Jalankan aplikasi menggunakan Emulator atau Real Device.
