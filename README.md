@@ -84,26 +84,24 @@ Finalisasi & Dokumentasi                          [==]
 Testing & Bug Fixing                                [==]
 ```
 
-- [ClickUp](https://sharing.clickup.com/90181810261/g/h/2kzm2e2n-658/ecff08a3c6fdc3c)
-<br>
-
-### **Pembaruan Bagian 7: Timeline Project ClickUp**
-
 Berikut adalah detail jadwal pengerjaan proyek **MyWebinar** beserta progres integrasi fitur AI Chatbot terbaru:
 
 | Tugas (Task) | Due Date | Status |
 | :--- | :--- | :--- |
-| Download & Install Android Studio | 18 Sep 2025 | Selesai[cite: 5] |
-| Membuat Storyboard Aplikasi MyWebinar | 28 Sep 2025 | Selesai[cite: 5] |
-| Membuat Akun ClickUp | 19 Sep 2025 | Selesai[cite: 5] |
-| Membuat MockUp dari Storyboard | 17 Okt 2025 | Selesai[cite: 5] |
-| Membuat UI (User Interface) di Figma | 17 Okt 2025 | Selesai[cite: 5] |
-| Implementasi di Android Studio | 19 Okt 2025 | Selesai[cite: 5] |
-| **Inisiasi & Analisis AI** | 13 Mar 2026 | Selesai[cite: 5] |
-| **Perancangan UI/UX & Arsitektur** | 27 Mar 2026 | Selesai[cite: 5] |
-| **Pengembangan Fitur Core & AI** | 22 Mei 2026 | Sedang Berjalan[cite: 5] |
-| **Dokumentasi & Finalisasi** | 05 Jun 2026 | Mendatang[cite: 5] |
-| **Testing & Bug Fixing** | 19 Jun 2026 | Mendatang[cite: 5] |
+| Download & Install Android Studio | 18 Sep 2025 | Selesai |
+| Membuat Storyboard Aplikasi MyWebinar | 28 Sep 2025 | Selesai |
+| Membuat Akun ClickUp | 19 Sep 2025 | Selesai |
+| Membuat MockUp dari Storyboard | 17 Okt 2025 | Selesai |
+| Membuat UI (User Interface) di Figma | 17 Okt 2025 | Selesai |
+| Implementasi di Android Studio | 19 Okt 2025 | Selesai |
+| **Inisiasi & Analisis AI** | 13 Mar 2026 | Selesai |
+| **Perancangan UI/UX & Arsitektur** | 27 Mar 2026 | Selesai |
+| **Pengembangan Fitur Core & AI** | 22 Mei 2026 | Sedang Berjalan |
+| **Dokumentasi & Finalisasi** | 05 Jun 2026 | Mendatang |
+| **Testing & Bug Fixing** | 19 Jun 2026 | Mendatang |
+
+- [ClickUp](https://sharing.clickup.com/90181810261/g/h/2kzm2e2n-658/ecff08a3c6fdc3c)
+<br>
 
 ---
 
